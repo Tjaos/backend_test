@@ -1,0 +1,16 @@
+{
+    "development": {
+      "username": "tjaos",
+      "password": "",
+      "database": "db_user",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "tjaos",
+      "password": "",
+      "database": "db_user",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    }
+  }
